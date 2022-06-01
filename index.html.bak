@@ -234,35 +234,31 @@
 
       <div class="box-container">
         <div class="box">
-          <img src="images/skills/JAVASCRIPT.jpg" alt="" />
+          <img src="images/skills/react.png" alt="" />
         </div>
 
         <div class="box">
-          <img src="images/skills/REACT.jpg" alt="" />
+          <img src="images/skills/node.png" alt="" />
         </div>
 
         <div class="box">
-          <img src="images/skills/EXPRESS.jpg" alt="" />
-        </div>
-		
-		<div class="box">
-          <img src="images/skills/NODE JS.jpg" alt="" />
+          <img src="images/skills/mongodb.png" alt="" />
         </div>
 
         <div class="box">
-          <img src="images/skills/HTML & CSS.jpg" alt="" />
+          <img src="images/skills/express.jfif" alt="" />
         </div>
 
         <div class="box">
-          <img src="images/skills/BOOTSTRAP.jpg" alt="" />
+          <img src="images/skills/bootstrap.jfif" alt="" />
         </div>
 
         <div class="box">
-          <img src="images/skills/EXCEL.jpg" alt="" />
+          <img src="images/skills/excel.jfif" alt="" />
         </div>
 
         <div class="box">
-          <img src="images/skills/POWERPOINT.jpg" alt="" />
+          <img src="images/skills/powerpoint.jfif" alt="" />
         </div>
       </div>
     </section>
